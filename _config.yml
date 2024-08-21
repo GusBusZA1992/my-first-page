@@ -9,6 +9,6 @@ social:
   twitter: your-twitter-handle
   github: your-github-username
   linkedin: your-linkedin-username
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#  - jekyll-feed 
+# - jekyll-seo-tag
