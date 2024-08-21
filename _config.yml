@@ -1,0 +1,14 @@
+title: My First GitHub Webpage
+description: This is my first attempt at creating a GitHub webpage.
+theme: jekyll-theme-cayman
+url: "https://<your-username>.github.io/<repository-name>"
+baseurl: "/<repository-name>"
+author: Your Name
+email: your-email@example.com
+social:
+  twitter: your-twitter-handle
+  github: your-github-username
+  linkedin: your-linkedin-username
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
